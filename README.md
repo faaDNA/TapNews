@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TapNews App
 
 ## Setup Project
@@ -13,3 +14,7 @@
 ## Konfigurasi yang Dibutuhkan
 - NewsAPI Key
 - File `google-services.json` dari Firebase
+=======
+# TapNews
+ TapNews - News application on Android mobile
+>>>>>>> e593ef60b2227a9746b7667a8a058e545561451c
