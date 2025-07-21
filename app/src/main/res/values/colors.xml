@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_background">#FF121212</color>
+    <color name="light_background">#FFFFFFFF</color>
+
+    <!-- Warna kustom untuk bottom navigation -->
+    <color name="nav_light_bg">#FFFFFF</color>
+    <color name="nav_light_item">#1B3358</color>  <!-- Biru tua elegan -->
+    <color name="nav_light_item_inactive">#78849E</color>  <!-- Biru abu-abu -->
+
+    <color name="nav_dark_bg">#202226</color>  <!-- Abu-abu sangat gelap -->
+    <color name="nav_dark_item">#E0E0E0</color>  <!-- Abu-abu terang -->
+    <color name="nav_dark_item_inactive">#9E9E9E</color>  <!-- Abu-abu medium -->
+</resources>
