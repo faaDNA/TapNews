@@ -9,6 +9,9 @@
     - Buat project di [Firebase Console](https://console.firebase.google.com/)
     - Download `google-services.json`
     - Tempatkan di folder `app/`
+    - Gunakan Firebase Authentication untuk login
+    - Tambahkan Firebase Realtime Database untuk menyimpan data pengguna
+    - tambahkan index dengan collection id 'favorites', isi dengan 'uid','saveAt', dan 'name'
 5. Build dan jalankan aplikasi
 
 ## Konfigurasi yang Dibutuhkan
